@@ -46,7 +46,7 @@ public class Comp extends CustomComponent {
 		button_1.setWidth("100.0%");
 		button_1.setHeight("100.0%");
 		mainLayout.addComponent(button_1,
-				"top:20.0px;right:135.0px;bottom:20.0px;left:120.0px;");
+				"top:20.0px;right:70.0px;bottom:20.0px;left:185.0px;");
 		
 		return mainLayout;
 	}
