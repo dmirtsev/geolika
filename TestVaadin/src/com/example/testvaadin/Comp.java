@@ -32,20 +32,21 @@ public class Comp extends CustomComponent {
 		// common part: create layout
 		mainLayout = new AbsoluteLayout();
 		mainLayout.setImmediate(false);
-		mainLayout.setWidth("280px");
-		mainLayout.setHeight("60px");
+		mainLayout.setWidth("320px");
+		mainLayout.setHeight("80px");
 		
 		// top-level component properties
-		setWidth("280px");
-		setHeight("60px");
+		setWidth("320px");
+		setHeight("80px");
 		
 		// button_1
 		button_1 = new Button();
 		button_1.setCaption("Button");
-		button_1.setImmediate(false);
-		button_1.setWidth("-1px");
-		button_1.setHeight("-1px");
-		mainLayout.addComponent(button_1, "top:20.0px;left:80.0px;");
+		button_1.setImmediate(true);
+		button_1.setWidth("100.0%");
+		button_1.setHeight("100.0%");
+		mainLayout.addComponent(button_1,
+				"top:20.0px;right:195.0px;bottom:20.0px;left:60.0px;");
 		
 		return mainLayout;
 	}
