@@ -11,7 +11,7 @@ import com.vaadin.ui.VerticalLayout;
 @SuppressWarnings("serial")
 @Theme("testvaadin")
 public class TestvaadinUI extends UI {
-
+ Comp cm=new Comp();
 	@Override
 	protected void init(VaadinRequest request) {
 		final VerticalLayout layout = new VerticalLayout();
@@ -25,6 +25,7 @@ public class TestvaadinUI extends UI {
 			}
 		});
 		layout.addComponent(button);
+		layout.addComponent(cm);
 	}
 
 }
