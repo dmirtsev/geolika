@@ -1,0 +1,27 @@
+@import "addons.scss";
+@import "examples.scss";
+
+/* This file prefixes all rules with the theme name to avoid causing conflicts with other themes. */
+/* The actual styles should be defined in examples.scss */
+.examples {
+  @include addons;
+  @include examples;
+  
+  /* Position icon right of the link caption. */
+.icon-after-caption {
+    direction: rtl;
+}
+/* Add some padding around the icon. */
+.icon-after-caption .v-icon {
+    padding: 0 3px;
+}
+
+.v-textfield-dashing {
+    border:     thin dashed;
+    background: white; /* Has shading image by default */
+}
+.v-textfield-red {
+    border:     thin dashed;
+    background: red; /* Has shading image by default */
+}
+}
