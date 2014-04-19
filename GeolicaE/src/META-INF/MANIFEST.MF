@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: poi-3.5-FINAL JavaLibrary
+Main-Class: ru.liveplanet.zt.Geolika
+

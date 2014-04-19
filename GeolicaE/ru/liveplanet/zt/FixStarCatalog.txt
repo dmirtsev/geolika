@@ -1,0 +1,1261 @@
+Aldebaran,alTau № 1
+Algol,bePer № 2
+Antares,alSco № 3
+Regulus,alLeo № 4
+Sirius,alCMa № 5
+Spica,alVir № 6
+Gal. Center,SgrA* № 7
+Great Attractor,GA № 8
+Virgo Cluster,VC № 9
+Andromeda Galaxy,M31 № 10
+Praesepe Cluster,M44 № 11
+Praesepe Cluster,M44 № 12
+Deneb,alCyg № 13
+Rigel,beOri № 14
+Mira,omiCet № 15
+Ain,epTau № 16
+
+До 16 повтояются потом
+*******************
+
+# Andromeda  Андромеда
+
+Alpheratz,alAnd № 17
+Sirrah,alAnd № 18
+Mirach,beAnd № 19
+Almaak,ga-1And № 20
+Almak,ga-1And № 21
+Almac,ga-1And № 22
+Almach,ga-1And № 23
+,deAnd № 24
+,epAnd № 25
+,zeAnd № 26
+,ioAnd № 27
+,kaAnd № 28
+,laAnd № 29
+,muAnd № 30
+,nuAnd № 31
+Adhil,xiAnd № 32
+,omiAnd № 33
+,piAnd № 34
+,rhAnd № 35
+,siAnd № 36
+,upAnd № 37
+,psAnd № 38
+,omeAnd № 39
+Andromeda,M31 № 40
+
+# Antila
+
+,alAnt № 41
+,epAnt № 42
+,thAnt № 43
+,ioAnt № 44
+
+# Apus     Райская птица
+
+,alAps № 45
+,gaAps № 46
+,de-1Aps № 47
+,thAps № 48
+,ioAps № 49
+,ka-1Aps № 50
+
+# Aquila  Орел
+
+Altair,alAql № 51
+Alshain,beAql № 52
+Tarazed,gaAql № 53
+Deneb Okab,deAql № 54
+,epAql № 55
+Dheneb,zeAql № 56
+,etAql № 57
+,thAql № 58
+Al Thalimaim,ioAql № 59
+,kaAql № 60
+Al Thalimaim,laAql № 61
+,muAql № 62
+,rhAql № 63
+,taAql № 64
+,ome-1Aql № 65
+
+# Aquarius    Водолей
+
+Sadalmelek,alAqr № 66
+Sadalmelik,alAqr № 67
+Sadalsuud,beAqr № 68
+Sadalachbia,gaAqr № 69
+Skat,deAqr № 70
+Albali,epAqr № 71
+,etAqr № 72
+Ancha,thAqr № 73
+,ioAqr № 74
+Situla,kaAqr № 75
+,laAqr № 76
+,muAqr № 77
+,nuAqr № 78
+Seat,piAqr № 79
+,siAqr № 80
+,ta-2Aqr № 81
+,phAqr № 82
+,xiAqr № 83
+,upAqr № 84
+,ps-1Aqr № 85
+,ps-3Aqr № 86
+,ome-2Aqr № 87
+
+Ara,alAra № 88
+,beAra № 89
+,deAra № 90
+,ep-1Ara № 91
+,zeAra № 92
+,etAra № 93
+,thAra № 94
+,muAra № 95
+
+# Aries Овен
+
+Hamal,alAri № 96
+Sheratan,beAri № 97
+Mesarthim,gaAri № 98
+Botein,deAri № 99
+,zeAri № 100
+,thAri № 101
+,nuAri № 102
+,siAri № 103
+,ta-1Ari № 104
+
+# Auriga   Возничий
+
+Capella,alAur № 105
+Menkalinan,beAur № 106
+Prijipati,deAur № 107
+Maaz,epAur № 108
+Al Anz,epAur № 109
+Haedi,zeAur № 110
+Haedus,zeAur № 111
+Hoedus I,zeAur № 112
+Sadatoni,zeAur № 113
+Hoedus II,etAur № 114
+Hasseleh,ioAur № 115
+Al Khabdhilinan,ioAur № 116
+,kaAur № 117
+,laAur № 118
+,muAur № 119
+,nuAur № 120
+,xiAur № 121
+,omiAur № 122
+,chAur № 123
+,ps-1Aur № 124
+,ps-5Aur № 125
+,ps-6Aur № 126
+
+# Bootes    Волопас
+
+Arcturus,alBoo № 127
+Nekkar,beBoo № 128
+Seginus,gaBoo № 129
+Haris,gaBoo № 130
+Princeps,deBoo № 131
+Izar,epBoo № 132
+Mirak,epBoo № 133
+Pulcherrima,epBoo № 134
+Mufrid,etBoo № 135
+Muphrid,etBoo № 136
+Asellus Primus,thBoo № 137
+Asellus Secundus,ioBoo № 138
+Asellus Tertius,ka-2Boo № 139
+,laBoo № 140
+Alkalurops,mu-1Boo № 141
+,nu-1Boo № 142
+,rhBoo № 143
+,siBoo № 144
+,taBoo № 145
+Ceginus,phBoo № 146
+,psBoo № 147
+Merga,38Boo № 148
+
+# Caelum  Резец
+
+,alCae № 149
+,beCae № 150
+,deCae № 151
+
+# Camelopardalis    Жираф
+
+,alCam № 152
+,beCam № 153
+,gaCam № 154
+
+# Capricornus Козерог
+
+Algedi,al-1Cap № 155
+Giedi Prima,al-1Cap № 156
+Algedi,al-2Cap № 157
+Giedi Secunda,al-2Cap № 158
+Dabih,beCap № 159
+Nashira,gaCap № 160
+Deneb Algedi,deCap № 161
+Castra,epCap № 162
+,zeCap № 163
+Armus,etCap № 164
+Dorsum,thCap № 165
+,ioCap № 166
+,laCap № 167
+,muCap № 168
+Alshat,nuCap № 169
+Oculus,piCap № 170
+Bos,roCap № 171
+,psCap № 172
+,upCap № 173
+,omeCap № 174
+
+# Carina Киль
+
+Canopus,alCar № 175
+Miaplacidus,beCar № 176
+Avior,epCar № 177
+Foramen,etCar № 178
+,thCar № 179
+Scutulum,ioCar № 180
+Tureis,ioCar № 181
+Aspidiske,ioCar № 182
+,chCar № 183
+,omeCar № 184
+
+# Cassiopeia Кассиопея
+
+Schedar,alCas № 185
+Shedir,alCas № 186
+Caph,beCas № 187
+Tsih,gaCas № 188
+Cih,gaCas № 189
+Ruchbah,deCas № 190
+Rucha,deCas № 191
+Segin,epCas № 192
+,zeCas № 193
+Achird,etCas № 194
+,kaCas № 195
+Marfak,muCas № 196
+,omiCas № 197
+,rhCas № 198
+,psCas № 199
+
+# Centaurus Центавр
+
+Rigil Kent,alCen № 200
+Rigel Kentaurus,alCen № 201
+Toliman,alCen № 202
+Bungula,alCen № 203
+Hadar,beCen № 204
+Agena,beCen № 205
+Muhlifain,gaCen № 206
+,deCen № 207
+,epCen № 208
+,zeCen № 209
+,etCen № 210
+Menkent,thCen № 211
+,ioCen № 212
+Ke Kwan,kaCen № 213
+,laCen № 214
+,muCen № 215
+,xi-2Cen № 216
+,piCen № 217
+,siCen № 218
+,psCen № 219
+Proxima Cent.,V645 Cen № 220
+
+# Cepheus     Цефей
+
+Alderamin,alCep № 221
+Alphirk,beCep № 222
+Alfirk,beCep № 223
+Alrai,gaCep № 224
+Errai,gaCep № 225
+,deCep № 226
+Kurhah,zeCep № 227
+,etCep № 228
+,thCep № 229
+,ioCep № 230
+,kaCep № 231
+Erakis,muCep № 232
+The Garnet Star,muCep № 233
+,nuCep № 234
+Kurdah,xiCep № 235
+Alkurhah,xiCep № 236
+Al Kalb al Rai,rhCep № 237
+
+# Cetus   Кит
+
+Menkar,alCet № 238
+Diphda,beCet № 239
+Difda,beCet № 240
+Kaffaljidhma,gaCet № 241
+,deCet № 242
+Baten Kaitos,zeCet № 243
+Deneb Algenubi,etCet № 244
+,thCet № 245
+Deneb Kaitos,ioCet № 246
+Shemali,ioCet № 247
+,ka-1Cet № 248
+Menkar,laCet № 249
+,muCet № 250
+,nuCet № 251
+,xi-1Cet № 252
+,xi-2Cet № 253
+Mira,omiCet № 254
+,piCet № 255
+,rhCet № 256
+,siCet № 257
+,taCet № 258
+,upCet № 259
+,ph-2Cet № 260
+,chCet № 261
+
+# Chameleon  Хамелеон
+
+,beCha № 262
+,gaCha № 263
+,de-2Cha № 264
+,etCha № 265
+,thCha № 266
+,piCha № 267
+
+# Circinus    Циркуль
+
+,alCir № 268
+,beCir № 269
+
+# Canis Major Большая собака
+
+Sirius,alCMa № 270
+Mirzam,beCMa № 271
+Murzim,beCMa № 272
+Muliphein,gaCMa № 273
+Isis,gaCMa № 274
+Wezen,deCMa № 275
+Adara,epCMa № 276
+Adhara,epCMa № 277
+Furud,zeCMa № 278
+Aludra,etCMa № 279
+,kaCMa № 280
+,xi-2CMa № 281
+,omi-2CMa № 282
+,siCMa № 283
+,thCMa № 284
+
+# Canis Minor Малая собака
+
+Procyon,alCMi № 285
+Gomeisa,beCMi № 286
+,zeCMi № 287
+
+# Cancer  Рак
+
+Acubens,alCnc № 288
+Al Tarf,beCnc № 289
+Asellus Borealis,gaCnc № 290
+Asellus Australis,deCnc № 291
+Tegmen,zeCnc № 292
+Tegmine,zeCnc № 293
+,etCnc № 294
+,ioCnc № 295
+,kaCnc № 296
+,xiCnc № 297
+,si-3Cnc № 298
+,chCnc № 299
+
+# Columba   Голубь
+
+,ome-1Cnc № 300
+Phact,alCol № 301
+Wazn,beCol № 302
+,gaCol № 303
+,etCol № 304
+,kaCol № 305
+Tsze,laCol № 306
+,omiCol № 307
+
+# Coma Berenices Волосы Вероники
+
+Diadem,alCom № 308
+Aldafirah,beCom № 309
+Kissin,gaCom № 310
+
+# Corona Australis    Южная корона
+
+Alfecca Meridiana,alCrA № 311
+,et-1CrA № 312
+,thCrA № 313
+
+# Corona Borealis   Северная Корона
+
+Alphecca,alCrB № 314
+Alphekka,alCrB № 315
+Gemma,alCrB № 316
+Nusakan,beCrB № 317
+,epCrB № 318
+,thCrB № 319
+,kaCrB № 320
+The Blaze Star,taCrB № 321
+
+# Crater  Чаша
+
+Alkes,alCrt № 322
+Alsharasif,beCrt № 323
+,gaCrt № 324
+Labrum,deCrt № 325
+,etCrt № 326
+,thCrt № 327
+,zeCrt № 328
+
+# Crux   Южный крест
+
+Acrux,al-1Cru № 329
+Mimosa,beCru № 330
+Gacrux,gaCru № 331
+,deCru № 332
+
+# Corvus   Ворон
+
+Alchiba,alCrv № 333
+Alchita,alCrv № 334
+Kraz,beCrv № 335
+Gienah,gaCrv № 336
+Algorab,deCrv № 337
+Minkar,epCrv № 338
+
+# Canis Venatici Гончих псов
+
+Cor Caroli,al-2CVn № 339
+Asterion,beCVn № 340
+Chara,beCVn № 341
+# Cygnus
+Deneb,alCyg № 342
+Albireo,be-1Cyg № 343
+Sador,gaCyg № 344
+Sadir,gaCyg № 345
+Sadr,gaCyg № 346
+Gienah Cygni,epCyg № 347
+,zeCyg № 348
+,etCyg № 349
+,thCyg № 350
+,io-2Cyg № 351
+,kaCyg № 352
+,nuCyg № 353
+,xiCyg № 354
+Azelfafage,pi-1Cyg № 355
+,pi-2Cyg № 356
+,rhCyg № 357
+,siCyg № 358
+,upCyg № 359
+Ruchbah,ome-1Cyg № 360
+Ruchbah,ome-2Cyg № 361
+,61Cyg № 362
+
+# Delphinus   Дельфин
+
+Sualocin,alDel № 363
+Rotanev,beDel № 364
+,ga-2Del № 365
+,deDel № 366
+Deneb Dulphim,epDel № 367
+,kaDel № 368
+
+# Dorado   Золотая рыбка
+
+,alDor № 369
+,beDor № 370
+,gaDor № 371
+,deDor № 372
+,zeDor № 373
+,thDor № 374
+,nuDor № 375
+
+# Draco   Дракон
+
+Thuban,alDra № 376
+Rastaban,beDra № 377
+Eltanin,gaDra № 378
+Etamin,gaDra № 379
+Nodus II,deDra № 380
+Altais,deDra № 381
+Tyl,epDra № 382
+Nodus I,zeDra № 383
+Aldhibah,zeDra № 384
+,thDra № 385
+Edasich,ioDra № 386
+Ed Asich,ioDra № 387
+,kaDra № 388
+Giansar,laDra № 389
+Gianfar,laDra № 390
+Arrakis,muDra № 391
+Kuma,nu-1Dra № 392
+Kuma,nu-2Dra № 393
+Grumium,xiDra № 394
+,omiDra № 395
+Alsafi,siDra № 396
+Athafi,siDra № 397
+,taDra № 398
+,upDra № 399
+,chDra № 400
+Dziban,ps-1Dra № 401
+Alathfar,omeDra № 402
+Al Athfar,omeDra № 403
+
+# Equuleus  Малый конь
+
+Kitalpha,alEqu № 404
+,gaEqu № 405
+
+# Eridanus Эридан
+
+Achernar,alEri № 406
+Cursa,beEri № 407
+Zaurak,gaEri № 408
+Rana,deEri № 409
+,epEri № 410
+Azha,etEri № 411
+Acamar,th-1Eri № 412
+Zibal,zeEri № 413
+,ioEri № 414
+,kaEri № 415
+,laEri № 416
+,muEri № 417
+,nuEri № 418
+,xiEri № 419
+Beid,omi-1Eri № 420
+Keid,omi-2Eri № 421
+,phEri № 422
+Angetenar,ta-2Eri № 423
+,ta-3Eri № 424
+,ta-5Eri № 425
+,ta-6Eri № 426
+Theemin,up-2Eri № 427
+,chEri № 428
+Sceptrum,53Eri № 429
+
+# Fornax   Печь
+
+Fornacis,alFor № 430
+,beFor № 431
+,deFor № 432
+,kaFor № 433
+,la-1For № 434
+,muFor № 435
+,nuFor № 436
+,taFor № 437
+
+# Geminy Близнецы
+
+Castor,alGem № 438
+Pollux,beGem № 439
+Alhena,gaGem № 440
+Almeisan,gaGem № 441
+Wasat,deGem № 442
+Mebsuta,epGem № 443
+Mekbuda,zeGem № 444
+Propus,etGem № 445
+,thGem № 446
+,ioGem № 447
+,kaGem № 448
+,laGem № 449
+Tejat,muGem № 450
+,nuGem № 451
+Alzirr,xiGem № 452
+,piGem № 453
+,rhGem № 454
+,upGem № 455
+,phGem № 456
+,chGem № 457
+,omeGem № 458
+
+# Grus Журавль
+
+Alnair,alGru № 459
+,beGru № 460
+Al Dhanab,gaGru № 461
+,de-1Gru № 462
+,epGru № 463
+,zeGru № 464
+,ioGru № 465
+,laGru № 466
+,nuGru № 467
+,omiGru № 468
+
+# Hercules   Геркулес
+
+Ras Algethi,alHer № 469
+Rasalgethi,alHer № 470
+Kornephoros,beHer № 471
+,gaHer № 472
+Sarin,deHer № 473
+,epHer № 474
+,etHer № 475
+,thHer № 476
+,ioHer № 477
+Marsik,kaHer № 478
+Marfik,kaHer № 479
+Masym,laHer № 480
+Maasym,laHer № 481
+,muHer № 482
+,xiHer № 483
+,omiHer № 484
+,piHer № 485
+,siHer № 486
+,taHer № 487
+,phHer № 488
+,chHer № 489
+Kajam,omeHer № 490
+Cujam,omeHer № 491
+Apex,HerA* № 492
+
+# Horologium Часы
+
+,alHor № 493
+,zeHor № 494
+,laHor № 495
+,muHor № 496
+
+# Hydra Гидра
+
+Alphard,alHya № 497
+Cor Hydrae,alHya № 498
+,gaHya № 499
+,deHya № 500
+,zeHya № 501
+,thHya № 502
+,ioHya № 503
+,kaHya № 504
+,laHya № 505
+,muHya № 506
+,nuHya № 507
+,xiHya № 508
+,omiHya № 509
+,piHya № 510
+Al Minliar al Shuja,siHya № 511
+Ukdah,ta-1Hya № 512
+Ukdah,ta-2Hya № 513
+Minchir,up-2Hya № 514
+,ch-1Hya № 515
+
+# Hydrus  Южная Гидра
+
+,alHyi № 516
+,beHyi № 517
+,gaHyi № 518
+,deHyi № 519
+,epHyi № 520
+,et-2Hyi № 521
+,thHyi № 522
+,ioHyi № 523
+,kaHyi № 524
+,laHyi № 525
+,muHyi № 526
+
+# Indus  Индеец
+
+,alInd № 527
+,beInd № 528
+,gaInd № 529
+,deInd № 530
+,epInd № 531
+,etInd № 532
+,omiInd № 533
+,rhInd № 534
+
+# Lacerta  Ящерица
+
+,alLac № 535
+,beLac № 536
+
+# Leo  Лев
+
+Regulus,alLeo № 537
+Denebola,beLeo № 538
+Algieba,ga-1Leo № 539
+Dhur,deLeo № 540
+Zosma,deLeo № 541
+Ras Elased Australis,epLeo № 542
+Adhafera,zeLeo № 543
+Algieba,etLeo № 544
+Al Jabhah,etLeo № 545
+Tse Tseng,ioLeo № 546
+Alminhar,kaLeo № 547
+Al Minliar al Asad,kaLeo № 548
+Alterf,laLeo № 549
+Ras Elased Borealis,muLeo № 550
+Rasalas,muLeo № 551
+,xiLeo № 552
+Subra,omiLeo № 553
+,siLeo № 554
+Coxa,thLeo № 555
+Chertan,thLeo № 556
+Cestan,thLeo № 557
+Chort,thLeo № 558
+,piLeo № 559
+,rhLeo № 560
+,taLeo № 561
+,upLeo № 562
+,phLeo № 563
+,chLeo № 564
+,psLeo № 565
+
+# Lepus  Заяц
+
+Arneb,alLep № 566
+Nihal,beLep № 567
+,gaLep № 568
+,deLep № 569
+,epLep № 570
+,zeLep № 571
+,etLep № 572
+,laLep № 573
+,muLep № 574
+
+# Libra  Весы
+
+,al-1Lib № 575
+Zubenelgenubi,al-2Lib № 576
+Zuben Elgenubi,al-2Lib № 577
+Zubeneshamali,beLib № 578
+Zuben Eshamali,beLib № 579
+Zubenelakrab,gaLib № 580
+Zuben Elakrab,gaLib № 581
+Zubenelakribi,deLib № 582
+Zuben Elakribi,deLib № 583
+,ze-1Lib № 584
+,io-1Lib № 585
+,kaLib № 586
+,laLib № 587
+Zubenhakrabi,nuLib № 588
+Zuben Hakrabi,nuLib № 589
+,xi-2Lib № 590
+Brachium,siLib № 591
+,upLib № 592
+
+# Leo Minor Малый лев
+
+,beLMi № 593
+Praecipua,omiLMi № 594
+
+# Lupus Волк
+
+,alLup № 595
+,beLup № 596
+,deLup № 597
+,zeLup № 598
+,thLup № 599
+,ka-1Lup № 600
+,ph-1Lup № 601
+,ph-2Lup № 602
+,ta-1Lup № 603
+,chLup № 604
+
+# Lynx  Рысь
+
+,alLyn № 605
+Alsciaukat,31Lyn № 606
+Mabsuthat,31Lyn № 607
+Vega,alLyr № 608
+Sheliak,beLyr № 609
+Sulaphat,gaLyr № 610
+Sulafat,gaLyr № 611
+Aladfar,etLyr № 612
+,thLyr № 613
+,ioLyr № 614
+,kaLyr № 615
+Alathfar,muLyr № 616
+
+# Mensa   Столовая Гора
+
+,alMen № 617
+,gaMen № 618
+,deMen № 619
+,etMen № 620
+,zeMen № 621
+,muMen № 622
+,xiMen № 623
+
+# Microscopium    Микроскоп
+
+,gaMic № 624
+,epMic № 625
+,zeMic № 626
+,th-1Mic № 627
+,ioMic № 628
+
+# Monoceros    Единорог
+
+,alMon № 629
+,deMon № 630
+,epMon № 631
+
+# Musca   Муха
+
+,alMus № 632
+,gaMus № 633
+,deMus № 634
+,etMus № 635
+,laMus № 636
+
+# Norma    Наугольник
+
+,ga-2Nor № 637
+,deNor № 638
+,kaNor № 639
+
+# Octans   Октант
+
+,alOct № 640
+,beOct № 641
+,etOct № 642
+,epOct № 643
+,thOct № 644
+,zeOct № 645
+,ioOct № 646
+,kaOct № 647
+,nuOct № 648
+,rhOct № 649
+Polaris Australis,siOct № 650
+,taOct № 651
+,upOct № 652
+,chOct № 653
+
+# Ophiuchus Змееносец
+
+Rasalhague,alOph № 654
+Celbalrai,beOph № 655
+Kelb Alrai,beOph № 656
+,gaOph № 657
+Yed Prior,deOph № 658
+Yed Posterior,epOph № 659
+Han,zeOph № 660
+Sabik,etOph № 661
+,thOph № 662
+,ioOph № 663
+,kaOph № 664
+Marfik,laOph № 665
+star file fixstars.cat damaged at line 772
+Sinistra,nuOph № 667
+,siOph № 668
+Barnard's star,V799 Oph № 669
+
+# Orion   Орион
+
+Betelgeuse,alOri № 670
+Beteigeuse,alOri № 671
+Rigel,beOri № 672
+Bellatrix,gaOri № 673
+Mintaka,deOri № 674
+Alnilam,epOri № 675
+Alnitak,zeOri № 676
+Hatsya,ioOri № 677
+Nair al Saif,ioOri № 678
+Saiph,kaOri № 679
+Heka,laOri № 680
+Meissa,laOri № 681
+,nuOri № 682
+,omi-1Ori № 683
+Tabit,pi-3Ori № 684
+Tabit,pi-4Ori № 685
+,pi-5Ori № 686
+,taOri № 687
+Thabit,upOri № 688
+,ph-1Ori № 689
+
+# Pavo Павлин
+
+Peacock,alPav № 690
+,bePav № 691
+,gaPav № 692
+,dePav № 693
+,epPav № 694
+,zePav № 695
+,etPav № 696
+,laPav № 697
+,xiPav № 698
+,omiPav № 699
+
+# Phoenix     Феникс
+
+Ankaa,alPhe № 700
+,gaPhe № 701
+,dePhe № 702
+,epPhe № 703
+,etPhe № 704
+,ioPhe № 705
+,la-1Phe № 706
+,muPhe № 707
+,piPhe № 708
+,upPhe № 709
+,phPhe № 710
+,psPhe № 711
+,omePhe № 712
+
+# Pegasus   Пегас
+
+Markab,alPeg № 713
+Scheat,bePeg № 714
+Algenib,gaPeg № 715
+Enif,epPeg № 716
+Homam,zePeg № 717
+Matar,etPeg № 718
+Biham,thPeg № 719
+Baham,thPeg № 720
+,ioPeg № 721
+Sadalbari,laPeg № 722
+,muPeg № 723
+,pi-1Peg № 724
+,pi-2Peg № 725
+Kerb,taPeg № 726
+Salm,taPeg № 727
+,upPeg № 728
+,phPeg № 729
+,chPeg № 730
+,psPeg № 731
+
+# Perseus   Персей
+
+Mirfak,alPer № 732
+Mirphak,alPer № 733
+Algol,bePer № 734
+,gaPer № 735
+,dePer № 736
+,epPer № 737
+Atik,zePer № 738
+Miram,etPer № 739
+,thPer № 740
+,ioPer № 741
+Misam,kaPer № 742
+,laPer № 743
+,muPer № 744
+,nuPer № 745
+Menkib,xiPer № 746
+Atik,omiPer № 747
+Gorgona Secunda,piPer № 748
+Gorgona Tertia,rhPer № 749
+,siPer № 750
+,taPer № 751
+,phPer № 752
+Gorgona Quatra,omePer № 753
+
+# Pictor  Живописец
+
+,alPic № 754
+,gaPic № 755
+,dePic № 756
+,zePic № 757
+,et-2Pic № 758
+
+# Piscis Austrinus  Южная рыба
+
+Fomalhaut,alPsA № 759
+,bePsA № 760
+,epPsA № 761
+,ioPsA № 762
+,laPsA № 763
+,muPsA № 764
+,piPsA № 765
+Alrischa,alPsc № 766
+
+# Pisces       Рыбы
+
+Fum Alsamakah,bePsc № 767
+,gaPsc № 768
+,dePsc № 769
+,epPsc № 770
+,zePsc № 771
+Al Pherg,etPsc № 772
+,thPsc № 773
+,ioPsc № 774
+,kaPsc № 775
+,laPsc № 776
+,nuPsc № 777
+,xiPsc № 778
+,omiPsc № 779
+,piPsc № 780
+,taPsc № 781
+,upPsc № 782
+,chPsc № 783
+,omePsc № 784
+
+# Puppis  Корма
+
+Naos,zePup № 785
+,nuPup № 786
+Asmidiske,xiPup № 787
+,piPup № 788
+,rhPup № 789
+,siPup № 790
+,taPup № 791
+
+# Pyxis     Компас
+
+,alPyx № 792
+,gaPyx № 793
+,epPyx № 794
+,thPyx № 795
+
+# Reticulum  Сетка
+
+,alRet № 796
+,beRet № 797
+,deRet № 798
+,ze-1Ret № 799
+,etRet № 800
+,kaRet № 801
+
+# Sculptor    Скульптор
+
+,piScl № 802
+,alScl № 803
+,beScl № 804
+,gaScl № 805
+,deScl № 806
+,epScl № 807
+,thScl № 808
+,ka-2Scl № 809
+,la-2Scl № 810
+,muScl № 811
+,siScl № 812
+
+# Scorpius   Скорпион
+
+Antares,alSco № 813
+Graffias,be-1Sco № 814
+Akrab,be-1Sco № 815
+Acrab,be-1Sco № 816
+Dschubba,deSco № 817
+,epSco № 818
+,etSco № 819
+Sargas,thSco № 820
+,io-1Sco № 821
+,kaSco № 822
+Shaula,laSco № 823
+,mu-1Sco № 824
+Jabbah,nuSco № 825
+Grafias,xiSco № 826
+,piSco № 827
+Alniyat,siSco № 828
+,taSco № 829
+Lesath,upSco № 830
+Jabhat al Akrab,ome-1Sco № 831
+Jabhat al Akrab,ome-2Sco № 832
+
+# Scutum   Щит
+
+,alSct № 833
+,beSct № 834
+,gaSct № 835
+,deSct № 836
+,epSct № 837
+
+# Serpens Змея
+
+Unukalhai,alSer № 838
+Cor Serpentis,alSer № 839
+Chow,beSer № 840
+,gaSer № 841
+,epSer № 842
+,etSer № 843
+Alya,th-1Ser № 844
+,kaSer № 845
+,muSer № 846
+,xiSer № 847
+,siSer № 848
+,ta-1Ser № 849
+
+# Sextans Секстант
+
+,deSex № 850
+,epSex № 851
+
+# Sagitta Стрела
+
+Sham,alSge № 852
+,beSge № 853
+,gaSge № 854
+,deSge № 855
+
+# Sagittarius Стрелец
+
+Rukbat,alSgr № 856
+Arkab Prior,be-1Sgr № 857
+Arkab Posterior,be-2Sgr № 858
+Alnasl,ga-2Sgr № 859
+Nash,ga-2Sgr № 860
+Kaus Medis,deSgr № 861
+Kaus Australis,epSgr № 862
+Ascella,zeSgr № 863
+,etSgr № 864
+,th-1Sgr № 865
+,ioSgr № 866
+,ka-1Sgr № 867
+Kaus Borealis,laSgr № 868
+Polis,muSgr № 869
+Ain al Rami,nu-1Sgr № 870
+,xi-2Sgr № 871
+Manubrium,omiSgr № 872
+Albaldah,piSgr № 873
+Nunki,siSgr № 874
+,taSgr № 875
+,phSgr № 876
+,upSgr № 877
+Terebellium,omeSgr № 878
+Gal. Center,SgrA* № 879
+
+# Taurus    Телец
+
+Aldebaran,alTau № 880
+Elnath,beTau № 881
+El Nath,beTau № 882
+Alnath,beTau № 883
+Prima Hyadum,gaTau № 884
+Hyadum I,gaTau № 885
+Secunda Hyadum,de-1Tau № 886
+Hyadum II,de-1Tau № 887
+Ain,epTau № 888
+Al Hecka,zeTau № 889
+Alcyone,etTau № 890
+,ioTau № 891
+,laTau № 892
+,muTau № 893
+,nuTau № 894
+,xiTau № 895
+,omiTau № 896
+,taTau № 897
+,rhTau № 898
+,ome-1Tau № 899
+Caleano,16Tau № 900
+Electra,17Tau № 901
+Taygeta,19Tau № 902
+Maia,20Tau № 903
+Asterope,21Tau № 904
+Sterope I,21Tau № 905
+Sterope II,22Tau № 906
+Merope,23Tau № 907
+Atlas,27Tau № 908
+
+# Telescopium   Телескоп
+
+,alTel № 909
+,epTel № 910
+,ioTel № 911
+,laTel № 912
+,nuTel № 913
+,xiTel № 914
+
+# Triangulum Australe Южный треугольник
+
+Atria,alTrA № 915
+,beTrA № 916
+,gaTrA № 917
+,deTrA № 918
+,epTrA № 919
+,zeTrA № 920
+
+# Triangulum   Треугольник
+
+Ras Mutallah,alTri № 921
+Metallah,alTri № 922
+,beTri № 923
+,gaTri № 924
+
+# Tucana   Тукан
+
+,alTuc № 925
+,gaTuc № 926
+,epTuc № 927
+,zeTuc № 928
+,ioTuc № 929
+,la-2Tuc № 930
+
+# Ursa Major Большая Медведица
+
+Dubhe,alUMa № 931
+Merak,beUMa № 932
+Phecda,gaUMa № 933
+Megrez,deUMa № 934
+Alioth,epUMa № 935
+Mizar,zeUMa № 936
+Alkaid,etUMa № 937
+Benetnash,etUMa № 938
+Al Haud,thUMa № 939
+Talitha Borealis,ioUMa № 940
+Talitha Australis,kaUMa № 941
+Tania Borealis,laUMa № 942
+Tania Australis,muUMa № 943
+Alula Borealis,nuUMa № 944
+Alula Australis,xiUMa № 945
+Muscida,omiUMa № 946
+,rhUMa № 947
+,upUMa № 948
+El Kophrah,chUMa № 949
+,psUMa № 950
+Alcor,80Uma № 951
+Saidak,80Uma № 952
+
+# Ursa Minor  Малая Медведица
+
+Polaris,alUMi № 953
+Kochab,beUMi № 954
+Pherkad,gaUMi № 955
+Yildun,deUMi № 956
+,epUMi № 957
+,zeUMi № 958
+,etUMi № 959
+,laUMi № 960
+Pherkad Minor,11UMi № 961
+
+# Vela Парус
+
+Suhail al Muhlif,ga-2Vel № 962
+Regor,ga-2Vel № 963
+Markeb,kaVel № 964
+Alsuhail,laVel № 965
+Suhail,laVel № 966
+,omiVel № 967
+Tseen Ke,phVel № 968
+
+# Virgo    Дева
+
+Spica,alVir № 969
+Zavijava,beVir № 970
+Alaraph,beVir № 971
+Porrima,gaVir № 972
+Auva,deVir № 973
+Vindemiatrix,epVir № 974
+Heze,zeVir № 975
+Zaniah,etVir № 976
+,thVir № 977
+Syrma,ioVir № 978
+,kaVir № 979
+Khambalia,laVir № 980
+Rijl al Awwa,muVir № 981
+Ril Alauva,muVir № 982
+,nuVir № 983
+,omiVir № 984
+,piVir № 985
+,rhVir № 986
+,siVir № 987
+,taVir № 988
+,phVir № 989
+,chVir № 990
+,psVir № 991
+
+# Volans  Летучая Рыба
+
+,alVol № 992
+,beVol № 993
+,ga-2Vol № 994
+,deVol № 995
+,zeVol № 996
+,ioVol № 997
+
+#Vulpecula Лисичка
+
+Anser,alVul № 998
+AA_page_B40, № 999
+AA06_page_B65, № 1000
+Tycho 2,xxx № 1001

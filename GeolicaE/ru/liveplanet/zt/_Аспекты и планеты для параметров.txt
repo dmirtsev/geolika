@@ -1,0 +1,119 @@
+  CONJ0= 0;// Соединение
+  VIG18=   18; //Вигинтиль (вициль, семидециль, полудециль)
+  SEMINON20=  20;// Семинонагон
+  KVIND24=  24;// Квиндециль
+  DECL36  =36 ;// Дециль
+  NOVL40  =40 ;// Новиль(Нонагон)
+  SKVAD45=45 ;//Полуквадрат(октиль)
+  SEPT51  =51.43 ;//септиль                               
+   SEXT60 =60 ;//секстиль (семиквинтиль)
+    KVINT72=72 ;//квинтиль
+    BNOV80=80 ;//Биновиль (бинонагон)
+    KVDR90=90 ;//квадрат
+    SESKN100=100 ;//сескиновиль
+    BSERT102=102.86 ;//бисептиль?
+    TRDEC108=108  ;//Тридециль
+    TRIN120=120 ;//трин
+    PLKVDR135=135 ;//полутораквадрат (Сесквиквадрат)
+    BIKV144=144 ;//бивинтиль
+    KVIK150=150 ;//квиконс
+    TRSEPT154=154.29 ;//трисептиль?
+    TTRNVL160=160 ;//Тетрановиль (кварнонагон)
+    OPP180=180 ;//оппозиция
+
+      majorAspect;
+      minorAspect;
+      allAspect;
+      erthqAspect;
+
+
+
+ SE_SUN
+    sun --> 0.
+SE_MOON
+    moon --> 1.
+  SE_MERCURY
+    planet number of mercury --> 2.
+  SE_VENUS
+    planet number of venus --> 3.
+  SE_MARS
+    planet number of mars --> 4.
+  SE_JUPITER
+    planet number of jupiter --> 5.
+  SE_SATURN
+    planet number of saturn --> 6.
+  SE_URANUS
+    planet number of uranus --> 7.
+  SE_NEPTUNE
+    planet number of neptune --> 8.
+  SE_PLUTO
+    planet number of pluto --> 9.
+  SE_MEAN_NODE
+    (planet) number of the mean moon node --> 10.
+  SE_TRUE_NODE
+    (planet) number of the true moon node --> 11.
+  SE_MEAN_APOG
+    (planet) number of the mean apogee (== Lilith) --> 12.
+  SE_OSCU_APOG
+    (planet) number of the osculating apogee --> 13.
+  SE_EARTH
+    earth --> 14.
+  SE_CHIRON
+    planet number of chiron --> 15.
+  SE_PHOLUS
+    planet number of pholus --> 16.
+  SE_CERES
+    planet number of ceres --> 17.
+  SE_PALLAS
+    planet number of pallas --> 18.
+  SE_JUNO
+    planet number of juno --> 19.
+  SE_VESTA
+    planet number of vesta --> 20.
+  SE_INTP_APOG
+    interpolated lunar agopee --> 21.
+  SE_INTP_PERG
+    interpolated lunar perigee --> 22.
+  SE_AST_OFFSET
+    The offset, where asteroid numbers start --> 10000.
+  SE_VARUNA
+
+  SE_FICT_OFFSET_1
+  SE_CUPIDO
+    The number of the Hamburger or Uranian "planet" cupido --> 40.
+  SE_HADES
+    The number of the Hamburger or Uranian "planet" hades --> 41.
+  SE_ZEUS
+    The number of the Hamburger or Uranian "planet" zeus --> 42.
+  SE_KRONOS
+    The number of the Hamburger or Uranian "planet" kronos --> 43.
+  SE_APOLLON
+    The number of the Hamburger or Uranian "planet" appollon --> 44.
+  SE_ADMETOS
+    The number of the Hamburger or Uranian "planet" admetos --> 45.
+  SE_VULKANUS
+    The number of the Hamburger or Uranian "planet" vulkanus --> 46.
+  SE_POSEIDON
+    The number of the Hamburger or Uranian "planet" poseidon --> 47.
+  SE_ISIS
+    The "planet" number of the fictitious body isis --> 48.
+  SE_NIBIRU
+    The "planet" number of the fictitious body nibiru --> 49.
+  SE_HARRINGTON
+    The "planet" number of the fictitious body harrington --> 50.
+  SE_NEPTUNE_LEVERRIER
+    The "planet" number of the fictitious body neptune-leverrier --> 51.
+  SE_NEPTUNE_ADAMSody pluto-pickering --> 54.
+  SE_VULCAN
+    The "planet" number of the fictitious 
+    The "planet" number of the fictitious body neptune-adams --> 52.
+  SE_PLUTO_LOWELL
+    The "planet" number of the fictitious body pluto-lowell --> 53.
+  SE_PLUTO_PICKERING
+    The "planet" number of the fictitious bbody vulcan --> 55.
+  SE_WHITE_MOON
+    The "planet" number of the fictitious body "white moon" (== Selena) --> 56.
+  SE_PROSERPINA
+    The "planet" number of the fictitious body "Proserpina" --> 57.
+  SE_WALDEMATH
+    The "planet" number of the fictitious body "Waldemath" --> 58.

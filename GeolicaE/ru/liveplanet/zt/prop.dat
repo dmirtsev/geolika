@@ -1,0 +1,14 @@
+proxySet=true
+proxyHost=192.168.0.2
+proxyPort=3128
+dbURL=jdbc:microsoft:sqlserver://web:1433
+dbDriver=com.microsoft.jdbc.sqlserver.SQLServerDriver
+user=sa
+password=1964bdr
+DatabaseName=MemorecAll
+charSet=ISO-8859-1
+imgPath=T:\\
+REMimgPath=D:\\Documents\\ProjectJava\\untitled7\\NXImage\\
+REMimgPath=\\web\\WebStoreMemorecIldar\\ProductImages\\Large\\
+continue=true
+updatePrice=1
