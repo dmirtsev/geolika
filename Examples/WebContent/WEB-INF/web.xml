@@ -14,7 +14,7 @@
   		<description>
   		Vaadin UI class to use</description>
   		<param-name>UI</param-name>
-  		<param-value>com.example.examples.ExamplesUI</param-value>
+  		<param-value>com.example.examples.Paint</param-value>
   	</init-param>
   	<init-param>
   		<description>
