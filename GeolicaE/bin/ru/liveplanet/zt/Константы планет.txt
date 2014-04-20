@@ -1,0 +1,401 @@
+SE_SUN
+
+public static final int SE_SUN
+
+    planet number of the sun. It is equal to 0.
+
+    See Also:
+        Constant Field Values
+
+SE_MOON
+
+public static final int SE_MOON
+
+    planet number of the moon. It is equal to 1.
+
+    See Also:
+        Constant Field Values
+
+SE_MERCURY
+
+public static final int SE_MERCURY
+
+    planet number of mercury. It is equal to 2.
+
+    See Also:
+        Constant Field Values
+
+SE_VENUS
+
+public static final int SE_VENUS
+
+    planet number of venus. It is equal to 3.
+
+    See Also:
+        Constant Field Values
+
+SE_MARS
+
+public static final int SE_MARS
+
+    planet number of mars. It is equal to 4.
+
+    See Also:
+        Constant Field Values
+
+SE_JUPITER
+
+public static final int SE_JUPITER
+
+    planet number of jupiter. It is equal to 5.
+
+    See Also:
+        Constant Field Values
+
+SE_SATURN
+
+public static final int SE_SATURN
+
+    planet number of saturn. It is equal to 6.
+
+    See Also:
+        Constant Field Values
+
+SE_URANUS
+
+public static final int SE_URANUS
+
+    planet number of uranus. It is equal to 7.
+
+    See Also:
+        Constant Field Values
+
+SE_NEPTUNE
+
+public static final int SE_NEPTUNE
+
+    planet number of neptune. It is equal to 8.
+
+    See Also:
+        Constant Field Values
+
+SE_PLUTO
+
+public static final int SE_PLUTO
+
+    planet number of pluto. It is equal to 9.
+
+    See Also:
+        Constant Field Values
+
+SE_MEAN_NODE
+
+public static final int SE_MEAN_NODE
+
+    (planet) number of the mean moon node. It is equal to 10.
+
+    See Also:
+        Constant Field Values
+
+SE_TRUE_NODE
+
+public static final int SE_TRUE_NODE
+
+    (planet) number of the true moon node. It is equal to 11.
+
+    See Also:
+        Constant Field Values
+
+SE_MEAN_APOG
+
+public static final int SE_MEAN_APOG
+
+    (planet) number of the mean apogee (== Lilith). It is equal to 12.
+
+    See Also:
+        Constant Field Values
+
+SE_OSCU_APOG
+
+public static final int SE_OSCU_APOG
+
+    (planet) number of the osculating apogee. It is equal to 13.
+
+    See Also:
+        Constant Field Values
+
+SE_EARTH
+
+public static final int SE_EARTH
+
+    planet number of the earth. It is equal to 14.
+
+    See Also:
+        Constant Field Values
+
+SE_CHIRON
+
+public static final int SE_CHIRON
+
+    planet number of chiron. It is equal to 15.
+
+    See Also:
+        Constant Field Values
+
+SE_PHOLUS
+
+public static final int SE_PHOLUS
+
+    planet number of pholus. It is equal to 16.
+
+    See Also:
+        Constant Field Values
+
+SE_CERES
+
+public static final int SE_CERES
+
+    planet number of ceres. It is equal to 17.
+
+    See Also:
+        Constant Field Values
+
+SE_PALLAS
+
+public static final int SE_PALLAS
+
+    planet number of pallas. It is equal to 18.
+
+    See Also:
+        Constant Field Values
+
+SE_JUNO
+
+public static final int SE_JUNO
+
+    planet number of juno. It is equal to 19.
+
+    See Also:
+        Constant Field Values
+
+SE_VESTA
+
+public static final int SE_VESTA
+
+    planet number of vesta. It is equal to 20.
+
+    See Also:
+        Constant Field Values
+
+SE_INTP_APOG
+
+public static final int SE_INTP_APOG
+
+    planet number of the interpolated lunar agopee. It is equal to 21.
+
+    See Also:
+        Constant Field Values
+
+SE_INTP_PERG
+
+public static final int SE_INTP_PERG
+
+    planet number of the interpolated lunar perigee. It is equal to 22.
+
+    See Also:
+        Constant Field Values
+
+SE_AST_OFFSET
+
+public static final int SE_AST_OFFSET
+
+    The offset, where asteroid numbers start. It is equal to 10000.
+
+    See Also:
+        Constant Field Values
+
+SE_VARUNA
+
+public static final int SE_VARUNA
+
+See Also:
+    Constant Field Values
+
+SE_FICT_OFFSET_1
+
+public static final int SE_FICT_OFFSET_1
+
+See Also:
+    Constant Field Values
+
+SE_CUPIDO
+
+public static final int SE_CUPIDO
+
+    The number of the Hamburger or Uranian "planet" cupido. It is equal to 40.
+
+    See Also:
+        Constant Field Values
+
+SE_HADES
+
+public static final int SE_HADES
+
+    The number of the Hamburger or Uranian "planet" hades. It is equal to 41.
+
+    See Also:
+        Constant Field Values
+
+SE_ZEUS
+
+public static final int SE_ZEUS
+
+    The number of the Hamburger or Uranian "planet" zeus. It is equal to 42.
+
+    See Also:
+        Constant Field Values
+
+SE_KRONOS
+
+public static final int SE_KRONOS
+
+    The number of the Hamburger or Uranian "planet" kronos. It is equal to 43.
+
+    See Also:
+        Constant Field Values
+
+SE_APOLLON
+
+public static final int SE_APOLLON
+
+    The number of the Hamburger or Uranian "planet" appollon. It is equal to 44.
+
+    See Also:
+        Constant Field Values
+
+SE_ADMETOS
+
+public static final int SE_ADMETOS
+
+    The number of the Hamburger or Uranian "planet" admetos. It is equal to 45.
+
+    See Also:
+        Constant Field Values
+
+SE_VULKANUS
+
+public static final int SE_VULKANUS
+
+    The number of the Hamburger or Uranian "planet" vulkanus. It is equal to 46.
+
+    See Also:
+        Constant Field Values
+
+SE_POSEIDON
+
+public static final int SE_POSEIDON
+
+    The number of the Hamburger or Uranian "planet" poseidon. It is equal to 47.
+
+    See Also:
+        Constant Field Values
+
+SE_ISIS
+
+public static final int SE_ISIS
+
+    The "planet" number of the fictitious body isis. It is equal to 48.
+
+    See Also:
+        Constant Field Values
+
+SE_NIBIRU
+
+public static final int SE_NIBIRU
+
+    The "planet" number of the fictitious body nibiru. It is equal to 49.
+
+    See Also:
+        Constant Field Values
+
+SE_HARRINGTON
+
+public static final int SE_HARRINGTON
+
+    The "planet" number of the fictitious body harrington. It is equal to 50.
+
+    See Also:
+        Constant Field Values
+
+SE_NEPTUNE_LEVERRIER
+
+public static final int SE_NEPTUNE_LEVERRIER
+
+    The "planet" number of the fictitious body neptune-leverrier. It is equal to 51.
+
+    See Also:
+        Constant Field Values
+
+SE_NEPTUNE_ADAMS
+
+public static final int SE_NEPTUNE_ADAMS
+
+    The "planet" number of the fictitious body neptune-adams. It is equal to 52.
+
+    See Also:
+        Constant Field Values
+
+SE_PLUTO_LOWELL
+
+public static final int SE_PLUTO_LOWELL
+
+    The "planet" number of the fictitious body pluto-lowell. It is equal to 53.
+
+    See Also:
+        Constant Field Values
+
+SE_PLUTO_PICKERING
+
+public static final int SE_PLUTO_PICKERING
+
+    The "planet" number of the fictitious body pluto-pickering. It is equal to 54.
+
+    See Also:
+        Constant Field Values
+
+SE_VULCAN
+
+public static final int SE_VULCAN
+
+    The "planet" number of the fictitious body vulcan. It is equal to 55.
+
+    See Also:
+        Constant Field Values
+
+SE_WHITE_MOON
+
+public static final int SE_WHITE_MOON
+
+    The "planet" number of the fictitious body "white moon" (== Selena). It is equal to 56.
+
+    See Also:
+        Constant Field Values
+
+SE_PROSERPINA
+
+public static final int SE_PROSERPINA
+
+    The "planet" number of the fictitious body "Proserpina". It is equal to 57.
+
+    See Also:
+        Constant Field Values
+
+SE_WALDEMATH
+
+public static final int SE_WALDEMATH
+
+    The "planet" number of the fictitious body "Waldemath". It is equal to 58.
+
+    See Also:
+        Constant Field Values
+

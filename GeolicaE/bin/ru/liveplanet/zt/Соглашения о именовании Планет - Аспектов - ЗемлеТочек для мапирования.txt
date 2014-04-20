@@ -1,0 +1,67 @@
+  CONJ0= 0;// Соединение
+  VIG18=   18; //Вигинтиль (вициль, семидециль, полудециль)
+  SEMINON20=  20;// Семинонагон
+  KVIND24=  24;// Квиндециль
+  DECL36  =36 ;// Дециль
+  NOVL40  =40 ;// Новиль(Нонагон)
+  SKVAD45=45 ;//Полуквадрат(октиль)
+  SEPT51  =51.43 ;//септиль                               
+   SEXT60 =60 ;//секстиль (семиквинтиль)
+    KVINT72=72 ;//квинтиль
+    BNOV80=80 ;//Биновиль (бинонагон)
+    KVDR90=90 ;//квадрат
+    SESKN100=100 ;//сескиновиль
+    BSERT102=102.86 ;//бисептиль?
+    TRDEC108=108  ;//Тридециль
+    TRIN120=120 ;//трин
+    PLKVDR135=135 ;//полутораквадрат (Сесквиквадрат)
+    BIKV144=144 ;//бивинтиль
+    KVIK150=150 ;//квиконс
+    TRSEPT154=154.29 ;//трисептиль?
+    TTRNVL160=160 ;//Тетрановиль (кварнонагон)
+    OPP180=180 ;//оппозиция
+
+
+
+
+SUN   SUN   .1] _SUN]
+MOO   MOON
+MER   MERCURY
+VEN   VENUS
+MAR   MARS
+JUP   JUPITER
+SAT   SATURN
+URA   URANUS
+NEP   NEPTUNE
+PLU   PLUTO
+MNO   MEAN_NODE
+TNO   TRUE_NODE
+LIL   Lilit MEAN_APOG
+?   OSCU_APOG
+EAR   EARTH
+CHI   CHIRON
+PHO   PHOLUS
+CER   CERES
+PAL   PALLAS
+JUN   JUNO
+VES   VESTA
+?   INTP_APOG -interpolated lunar agopee
+?   INTP_PERG  interpolated lunar perigee
+VAR   VARUNA
+CUP   CUPIDO
+HAD   HADES
+ZEU   ZEUS
+KRO   KRONOS
+APO   APOLLON
+ADM   ADMETOS
+VUL   VULKANUS
+POS   POSEIDON
+ISI   ISIS
+NIB   NIBIRU
+HAR   HARRINGTON
+?   NEPTUNE_LEVERRIER
+?   NEPTUNE_ADAMSody 
+VUL   VULCAN
+SEL   Selena WHITE_MOON
+PRO   PROSERPINA
+WAL   WALDEMATH

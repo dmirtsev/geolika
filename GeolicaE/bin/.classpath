@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaAPIforKml-2.2.0"/>
+	<classpathentry kind="lib" path="C:/Users/dbashkirtsev/YandexDisk/swisseph/swissephSWI-1.80.00-02.jar" sourcepath="C:/Users/dbashkirtsev/YandexDisk/swisseph/swisseph-1.80.00-java-src-02/swesrc">
+		<attributes>
+			<attribute name="javadoc_location" value="http://th-mack.de/download/swisseph-doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/dbashkirtsev/YandexDisk/GeolikaForEclipce/zt/libExt/openmap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbashkirtsev/YandexDisk/GeolikaForEclipce/zt/libExt/poi-3.5-FINAL-20090928.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dbashkirtsev/YandexDisk/GeolikaForEclipce/zt/libExt/JimiProClasses.zip"/>
+	<classpathentry kind="lib" path="C:/Users/dbashkirtsev/YandexDisk/GoogleMaps/LogingUtil/slf4j-1.7.7.zip"/>
+	<classpathentry kind="lib" path="C:/Users/dbashkirtsev/YandexDisk/GoogleMaps/LogingUtil/slf4j-1.7.7/slf4j-ext-1.7.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
